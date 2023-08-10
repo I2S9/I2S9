@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inès</h1>
+<div align="center"> <img src="https://marvel-b1-cdn.bc0a.com/f00000000151999/www.teradata.fr/getmedia/2ef6bc95-70fb-495f-8b48-307634758fee/AdobeStock_408552325.jpeg?origin=fd&width=1200"></div>
 <h3 align="center">An engineer student passionate about artificial intelligence</h3>
 
 - 🌱 I’m currently learning **C programming, artificial intelligence and data science**
