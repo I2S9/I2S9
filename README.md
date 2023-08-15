@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Github**
 
-- 📫 How to reach me **ines_nvc20@gmail.com**
+- 📫 How to reach me **inesnvc20@gmail.com**
 <p align="left">
 </p>
 
