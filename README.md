@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inès</h1>
 
-<h3 align="center">A computer science student interested in artificial intelligence</h3>
+<h3 align="center">A science student interested in artificial intelligence</h3>
 
 - 🌱 I’m currently learning **C programming, artificial intelligence and data science**
 
