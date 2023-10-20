@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **C programming, artificial intelligence and data science**
 
-- 💬 Ask me about **Github**
-
 - 📫 How to reach me **inesnvc20@gmail.com**
 <p align="left">
 </p>
