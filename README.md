@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm Inès</h1>
+<p align=”center”>
 
-<h3 align="center">A science student interested in artificial intelligence</h3>
+![github-banner](https://github.com/I2S9/I2S9/assets/111307883/e9cffe94-cbf6-4c30-a87b-bc088682d851)
 
-- 🌱 I’m currently learning **C programming, artificial intelligence and data science**
-
-- 📫 How to reach me **inesnvc20@gmail.com**
-<p align="left">
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i2s9&show_icons=true&locale=en&layout=compact" alt="i2s9" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i2s9&show_icons=true&locale=en" alt="i2s9" /></p>
-
